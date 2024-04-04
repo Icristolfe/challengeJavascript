@@ -16,3 +16,14 @@ cd javascript
 npm install
 npm test
 ```
+
+Em caso de erro instale o jest manualmente:
+ Yarn:
+```bash
+yarn add --dev jest
+```
+
+Npm:
+```bash
+npm install --save-dev jest
+```
